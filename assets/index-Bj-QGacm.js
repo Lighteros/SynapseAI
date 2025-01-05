@@ -9498,7 +9498,7 @@ const Rd = () =>
     { id: "0", title: "Features", url: "#features" },
     { id: "1", title: "How to use", url: "#how-to-use" },
     { id: "2", title: "Roadmap", url: "#roadmap" },
-    { id: "3", title: "Doc", url: "https://johns-organization-137.gitbook.io/synapseai" },
+    { id: "3", title: "Doc", url: "https://docs.synapse-ai.cc" },
   ],
   Rf = [Hd, Gd, Qd, Wd],
   Of = [Sf, Af, Cf],
