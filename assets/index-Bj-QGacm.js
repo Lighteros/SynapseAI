@@ -9498,7 +9498,7 @@ const Rd = () =>
     { id: "0", title: "Features", url: "#features" },
     { id: "1", title: "How to use", url: "#how-to-use" },
     { id: "2", title: "Roadmap", url: "#roadmap" },
-    { id: "3", title: "Doc", url: "/Doc" },
+    { id: "3", title: "Doc", url: "https://johns-organization-137.gitbook.io/synapseai" },
   ],
   Rf = [Hd, Gd, Qd, Wd],
   Of = [Sf, Af, Cf],
@@ -9645,8 +9645,8 @@ const Rd = () =>
     },
   ],
   Gf = [
-    { id: "0", title: "Twitter", iconUrl: Mf, url: "#" },
-    { id: "1", title: "Telegram", iconUrl: Tf, url: "#" },
+    { id: "0", title: "Twitter", iconUrl: Mf, url: "https://x.com/SynapseAI_eth" },
+    { id: "1", title: "Telegram", iconUrl: Tf, url: "https://t.me/SynapseAI_eth" },
   ],
   Xs = (e) =>
     e === "left"
