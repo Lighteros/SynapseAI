@@ -11029,7 +11029,7 @@ const _f = ({ openNavigation: e }) =>
             ],
           }),
           s.jsx("a", {
-            href: "https://www.dextools.io/app/en/ether/pool-explorer/0x00000000000000000000000000000000000000",
+            href: "https://www.dextools.io/app/en/ether/pair-explorer/0xbf075949ad47498c8e2e5eb8b6a8b07f4f996856",
             className:
               "button hidden mr-8 text-n-1/50 transition-colors hover:text-n-1 lg:block",
             children: "Chart",
