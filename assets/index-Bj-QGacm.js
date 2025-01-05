@@ -11036,7 +11036,7 @@ const _f = ({ openNavigation: e }) =>
           }),
           s.jsx(Nn, {
             className: "hidden lg:flex",
-            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xdeA067B3B9EF6893E4E861dadef6C62C5F5ec889",
             children: "Buy SNAI",
           }),
           s.jsx(Nn, {
